@@ -9,17 +9,7 @@ The study proposes a multi-phase framework for advanced side-channel based disas
 
 ---
 
-## Contents
-
-- `notebooks/` — Jupyter notebooks for each stage of modeling
-- `datasets/` — Processed datasets for training and evaluation
-- `models/` — Pretrained models and architecture definitions
-- `figures/` — Placeholder for result visualizations and architecture diagrams
-- `README.md` — This file
-
----
-
-## Research Objectives
+## Objectives
 
 - Develop a **pseudo-labeling** model to estimate power traces from assembly code.
 - Create a **disassembly** model using engineered features and contextual models.
@@ -48,6 +38,8 @@ The study proposes a multi-phase framework for advanced side-channel based disas
 6. **Dummy Detection**
    - LSTM-based sequence labeling with token embedding
    - Detects obfuscation techniques like inserted dummy instructions
+7. **LLM for Assembly to C**
+   - After recovering the Assembly language, an LLM is used for converting it to human-readable C code
 
 ---
 
