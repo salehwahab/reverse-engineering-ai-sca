@@ -6,7 +6,7 @@ Name: Saleh Alabdulwahab
 Email: salehwahab@outlook.com
 LinkedIn: www.linkedin.com/in/Saleh-Alabdulwahab
 Portfolio: https://www.researchgate.net/profile/Saleh-Alabdulwahab
-CV: 
+CV: /main/SalehAlabdulwahab_CV.pdf
 
 ## Overview
 This repository contains the code, datasets, and experimental setup for the PhD thesis project:  
