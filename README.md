@@ -9,7 +9,6 @@ Deep Learning-based Reverse Engineering via Side Channel Analysis
 - CV: [CV PDF file](/SalehAlabdulwahab_CV.pdf)
 
 ## Overview
-This repository contains the code, datasets, and experimental setup for the PhD thesis project:  
 **"Pseudo-labeling for Deep Learning-based Side-channel Disassembly Using Contextual Layer and Feature Engineering"**
 
 The project proposes a multi-phase framework for advanced side-channel based disassembly and dummy instruction detection using deep learning, feature engineering, and contextual sequence modeling.
