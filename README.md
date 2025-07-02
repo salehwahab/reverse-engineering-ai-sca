@@ -1,7 +1,7 @@
 # reverse-engineering-ai-sca
 Deep Learning-based Reverse Engineering via Side Channel Analysis
 
-## 📌 Overview
+## Overview
 This repository contains the code, datasets, and experimental setup for the PhD thesis project:  
 **"Pseudo-labeling for Deep Learning-based Side-channel Disassembly Using Contextual Layer and Feature Engineering"**
 
@@ -17,7 +17,7 @@ The study proposes a multi-phase framework for advanced side-channel based disas
 
 ---
 
-## Methodology Summary
+## System Summary
 
 1. **Dataset Creation**
    - Real cryptographic implementations (AES, RSA, DES, etc.)
