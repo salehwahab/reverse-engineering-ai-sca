@@ -34,14 +34,18 @@ The study proposes a multi-phase framework for advanced side-channel based disas
    - Power traces generated via Signed Hamming Distance model
    - Total: 1.76 million samples, 24 instruction classes
 
-2. **Pseudo-labeling**
+2. **Leakage Modeling**
+   - Side channel leakage modeling using a sequential model.
+   - Leveraging contextual and embedding layers for accurate power leakage prediction.
+
+4. **Pseudo-labeling**
    - GRU-based model with context embeddings and temporal attention
    - Outputs estimated power traces for unlabeled instruction sequences
 
-3. **Feature Engineering**
+5. **Feature Engineering**
    - Moving average, autocorrelation, and MLTI (Moving Log-transformed Temporal Interaction)
 
-4. **Dummy Detection**
+6. **Dummy Detection**
    - LSTM-based sequence labeling with token embedding
    - Detects obfuscation techniques like inserted dummy instructions
 
@@ -76,6 +80,7 @@ The study proposes a multi-phase framework for advanced side-channel based disas
 
 - Architecture comparisons: GRU, Transformer, LSTM + ANN
 - Window size sensitivity analysis
+- The effect of contextual layers in leakage modeling
 - Cross-dataset validation
 - Dummy instruction detection with sequence tokenization
 
