@@ -38,12 +38,12 @@ The study proposes a multi-phase framework for advanced side-channel based disas
 6. **Dummy Detection**
    - LSTM-based sequence labeling with token embedding
    - Detects obfuscation techniques like inserted dummy instructions
-   - 
+   
 7. **LLM for Assembly to C**
    - After recovering the Assembly language, an LLM is used for converting it to human-readable C code
 
 8. **Side Channel Forensics**
-   - Using electromagnetic emission for detecting  
+   - Using electromagnetic emission for wirelessly identifying a device's activities
 
 ---
 
@@ -83,6 +83,7 @@ The study proposes a multi-phase framework for advanced side-channel based disas
 ---
 
 ## Published works from this project
+For more details, please check the following publications.
 
 1. Advanced Side-Channel Evaluation Using Contextual Deep Learning-Based Leakage Modeling, ACM
 Transactions on Software Engineering and Methodology, 2025. Q1, IF: 6.6
