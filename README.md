@@ -5,7 +5,7 @@ Deep Learning-based Reverse Engineering via Side Channel Analysis
 This repository contains the code, datasets, and experimental setup for the PhD thesis project:  
 **"Pseudo-labeling for Deep Learning-based Side-channel Disassembly Using Contextual Layer and Feature Engineering"**
 
-The study proposes a multi-phase framework for advanced side-channel based disassembly and dummy instruction detection using deep learning, feature engineering, and contextual sequence modeling.
+The project proposes a multi-phase framework for advanced side-channel based disassembly and dummy instruction detection using deep learning, feature engineering, and contextual sequence modeling.
 
 ---
 
@@ -55,20 +55,11 @@ The study proposes a multi-phase framework for advanced side-channel based disas
 
 ---
 
-## Figures & Tables
+## Figures
 
-> Placeholder: Replace with actual image links or embedded visuals
-
-- **Fig 1:** Side-channel disassembly steps  
-- **Fig 2:** Disassembly via template device  
-- **Fig 3:** DL Models Overview  
-- **Fig 4:** Dummy instruction example  
-- **Fig 5:** Proposed Architecture  
-- **Fig 6:** Instruction Prediction Flow  
-- **Fig 7–11:** Experimental results, performance comparisons, and variation analyses
-
-> Place figures in the `figures/` folder and reference them here using:  
-> `![Figure Title](figures/figure-name.png)`
+> `![Figure Title](figures/picture1.png)`
+> `![Figure Title](figures/picture2.png)`
+> `![Figure Title](figures/picture3.png)`
 
 ---
 
