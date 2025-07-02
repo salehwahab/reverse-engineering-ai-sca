@@ -57,9 +57,9 @@ The project proposes a multi-phase framework for advanced side-channel based dis
 
 ## Figures
 
-> `![Figure Title](figures/picture1.png)`
-> `![Figure Title](figures/picture2.png)`
-> `![Figure Title](figures/picture3.png)`
+> ![Figure Title](figures/picture1.png)
+> ![Figure Title](figures/picture2.png)
+> ![Figure Title](figures/picture3.png)
 
 ---
 
