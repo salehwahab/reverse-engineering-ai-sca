@@ -81,7 +81,7 @@ The project proposes a multi-phase framework for advanced side-channel based dis
 ---
 
 ## Published works from this project
-For more details, please check the following publications.
+For more details, please check my following publications.
 
 1. Advanced Side-Channel Evaluation Using Contextual Deep Learning-Based Leakage Modeling, ACM
 Transactions on Software Engineering and Methodology, 2025. Q1, IF: 6.6
