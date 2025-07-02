@@ -78,9 +78,14 @@ The study proposes a multi-phase framework for advanced side-channel based disas
 
 ---
 
-## Related Publications
+## Published works from this project
 
-1. *Applied Sciences* — CTGAN for IDS dataset generation (Accepted)
-2. *Expert Systems with Applications* — Feature engineering for SCA (Revision)
-3. *Sensors* — CTGAN for privacy-preserving IDS (Revision)
-4. *ACM TOSEM* — Contextual leakage modeling (Under review)
+1. Advanced Side-Channel Evaluation Using Contextual Deep Learning-Based Leakage Modeling, ACM
+Transactions on Software Engineering and Methodology, 2025. Q1, IF: 6.6
+https://dl.acm.org/doi/10.1145/3734219
+2. Pseudo-Labeling for DL-Based Side-Channel Disassembly Using Contextual Layer and Feature Engineering,
+Doctoral Dissertation, Dongguk University, 2025.
+http://www.dcollection.net/handler/dgu/000000089549
+3. Enhancing DL-Based Side-Channel Analysis Using Feature Engineering in a Fully Simulated IoT System, Expert
+Systems with Applications, 2025. Q1, IF: 7.5
+https://doi.org/10.1016/j.eswa.2024.126079
