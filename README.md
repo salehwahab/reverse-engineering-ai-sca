@@ -1,6 +1,13 @@
 # reverse-engineering-ai-sca
 Deep Learning-based Reverse Engineering via Side Channel Analysis
 
+## Personal Information
+Name: Saleh Alabdulwahab
+Email: salehwahab@outlook.com
+LinkedIn: www.linkedin.com/in/Saleh-Alabdulwahab
+Portfolio: https://www.researchgate.net/profile/Saleh-Alabdulwahab
+CV: 
+
 ## Overview
 This repository contains the code, datasets, and experimental setup for the PhD thesis project:  
 **"Pseudo-labeling for Deep Learning-based Side-channel Disassembly Using Contextual Layer and Feature Engineering"**
